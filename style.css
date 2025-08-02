@@ -1,0 +1,67 @@
+body {
+    background-color: blanchedalmond;
+    position: relative;
+text-align: center;
+}
+
+.card {
+width: 200px;
+height: 300px;
+border: 2px solid black;
+border-radius: 5px;
+position: absolute;
+padding: 10px;
+margin: 10px;
+text-align: center;
+}
+
+img {
+width: 150px;
+height: 200px;
+}
+
+.card-1 {
+    background-color: aquamarine;
+}
+
+.card-2 {
+    margin-top: 80px;
+    margin-left: 40px;
+    background-color: rgb(244, 46, 49);
+}
+
+.card-3 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 75px;
+    background-color: rgb(231, 182, 6);
+}
+.card:hover {
+    z-index: 2;
+}
+.card-4{
+    margin-top: 220px;
+    margin-left: 110px;
+    background-color: black;
+}
+.card-5{
+    margin-top: 220px;
+    margin-left: 110px;
+    background-color: rgb(188, 239, 47);
+}
+.card-6{
+    margin-top: 220px;
+    margin-left: 110px;
+    background-color: rgb(70, 21, 21);
+}
+.card-7{
+    margin-top: 220px;
+    margin-left: 110px;
+    background-color: rgb(239, 38, 168);
+}
+.card-8{
+    margin-top: 220px;
+    margin-left: 110px;
+    background-color: rgb(249, 129, 129);
+}
+
